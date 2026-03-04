@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "front": "appel",
+        "back": "яблоко"
+    },
+    {
+        "id": 2,
+        "front": "red",
+        "back":"красный"
+    },
+      {
+        "id":3,
+        "front": "appel",
+        "back": "яблоко"
+    },
+    {
+        "id": 4,
+        "front": "red",
+        "back":"красный"
+    },
+      {
+        "id":5,
+        "front": "appel",
+        "back": "яблоко"
+    },
+    {
+        "id": 6,
+        "front": "red",
+        "back":"красный"
+    },
+      {
+        "id":7,
+        "front": "appel",
+        "back": "яблоко"
+    },
+    {
+        "id": 8,
+        "front": "red",
+        "back":"красный"
+    },
+      {
+        "id":9,
+        "front": "appel",
+        "back": "яблоко"
+    },
+    {
+        "id": 10,
+        "front": "red",
+        "back":"красный"
+    }
+    
+]
