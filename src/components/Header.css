@@ -1,0 +1,47 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100%;
+    min-width: 100%;
+}
+body{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.root{
+  width: 100%;
+}
+
+.header {
+    background-color: rgb(241, 131, 255);
+    padding: 20px;
+    width: 100vw;
+  
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    color:rgb(241, 131, 255);
+    font-size: 25px;
+    margin: 20px;;
+}
+
+p{
+  text-align: center;
+    color:rgb(241, 131, 255);
+    font-size: 25px;
+    margin: 20px;;
+}

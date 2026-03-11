@@ -1,0 +1,44 @@
+.control{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;         
+    justify-content: center;       
+   margin: 0 auto;             
+}
+
+button {
+    border-radius: 50%;
+    background: #ebebeb;
+    border: solid 1px #780091;
+    width: 44px;                
+    height: 44px;
+    display: flex;              
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    transition: all 0.3s ease;
+    padding: 0;
+    margin: 0;
+    color: #780091;
+    line-height: 10px;
+}
+
+.p {
+    font-size: 20px;
+    color: #780091;
+    text-align: center;
+}
+
+button:hover {
+    background: #bebebe;
+    border: solid 1px #780091;
+    transform: scale(1.1);
+    color: #780091;
+}
+
+button:focus{
+    background: #f1f1f1;
+    border-color: #780091;
+    color: #616161;
+}
