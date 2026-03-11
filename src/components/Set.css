@@ -33,7 +33,7 @@ button {
 button:hover {
     background: #bebebe;
     border: solid 1px #780091;
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
     color: #780091;
 }
 
@@ -41,4 +41,17 @@ button:focus{
     background: #f1f1f1;
     border-color: #780091;
     color: #616161;
+}
+
+button:disabled{
+    border: #616161 solid 1px;
+    background: #dadada;
+    color: #616161;
+}
+
+button:hover:disabled{
+     border: #616161 solid 1px;
+    background: #dadada;
+    color: #616161;
+    transform: scale(1);
 }
