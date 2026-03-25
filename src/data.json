@@ -2,52 +2,122 @@
     {
         "id":1,
         "front": "apple",
-        "back": "яблоко"
+        "back": "яблоко",
+        "setName": "English"
     },
     {
         "id": 2,
         "front": "red",
-        "back":"красный"
+        "back":"красный",
+        "setName": "English"
     },
       {
         "id":3,
         "front": "apple",
-        "back": "яблоко"
+        "back": "яблоко",
+        "setName": "English"
     },
     {
         "id": 4,
         "front": "red",
-        "back":"красный"
+        "back":"красный",
+        "setName": "English"
     },
-      {
+     {
         "id":5,
         "front": "apple",
-        "back": "яблоко"
+        "back": "яблоко",
+        "setName": "English"
     },
     {
         "id": 6,
         "front": "red",
-        "back":"красный"
+        "back":"красный",
+        "setName": "English"
     },
       {
         "id":7,
         "front": "apple",
-        "back": "яблоко"
+        "back": "яблоко",
+        "setName": "English"
     },
     {
         "id": 8,
         "front": "red",
-        "back":"красный"
+        "back":"красный",
+        "setName": "English"
     },
       {
         "id":9,
-        "front": "apple",
-        "back": "яблоко"
+        "front": "banana",
+        "back": "банан",
+        "setName": "fruit"
     },
     {
         "id": 10,
-        "front": "red",
-        "back":"красный"
+        "front": "orange",
+        "back":"апельсин",
+        "setName": "fruit"
+    },
+      {
+        "id":11,
+        "front": "peach",
+        "back": "персик",
+        "setName": "fruit"
+    },
+    {
+        "id": 12,
+        "front": "grape",
+        "back":"виноград",
+        "setName": "fruit"
+    },
+      {
+        "id":13,
+        "front": "mango",
+        "back": "манго",
+        "setName": "fruit"
+    },
+    {
+        "id": 14,
+        "front": "pear",
+        "back":"груша",
+        "setName": "fruit"
+    },
+    {
+        "id":15,
+        "front": "banana",
+        "back": "банан",
+        "setName": "fruit"
+    },
+    {
+        "id": 16,
+        "front": "orange",
+        "back":"апельсин",
+        "setName": "fruit"
+    },
+      {
+        "id":17,
+        "front": "peach",
+        "back": "персик",
+        "setName": "fruit"
+    },
+    {
+        "id": 18,
+        "front": "grape",
+        "back":"виноград",
+        "setName": "fruit"
+    },
+      {
+        "id":19,
+        "front": "mango",
+        "back": "манго",
+        "setName": "fruit"
+    },
+    {
+        "id": 20,
+        "front": "pear",
+        "back":"груша",
+        "setName": "fruit"
     }
     
 ]

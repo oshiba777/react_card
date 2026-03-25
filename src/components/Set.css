@@ -55,3 +55,17 @@ button:hover:disabled{
     color: #616161;
     transform: scale(1);
 }
+
+.vibor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;         
+    justify-content: center;  
+    gap: 30px;
+    width: 400px;
+    height: 200px;
+    border: solid 3px rgb(227, 11, 255);
+    border-radius: 5px;
+    background:  rgb(240, 154, 252);
+    color:  rgb(226, 7, 255);
+}
