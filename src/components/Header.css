@@ -46,11 +46,20 @@ p{
     margin: 20px;;
 }
 
-.main-menu_link{
+.main-menu{
+    list-style-type: none;
+}
+
+.main-menu li{
+    list-style: none;
+}
+.main-menu__link{
     margin-top: 20px;
     color: rgb(162, 0, 255);
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 20px;
+    list-style-type: none;
 }
+

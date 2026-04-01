@@ -1,0 +1,57 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.label{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.create{
+    background: #ff4af0;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    border-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.create:hover{
+     background: #b82fac;
+}
+
+.input{
+    min-width: 250px;
+    min-height: 40px;
+    border-radius: 10px;
+    background: #fff1f8;
+    
+}
+
+
+.adm-panel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.adm-panel__btn{
+    background: #ff4af0;
+    color: aliceblue;
+     font-size: 108x;
+    padding: 10px;
+    border-radius: 5px;
+}

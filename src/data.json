@@ -1,8 +1,8 @@
 [
     {
         "id":1,
-        "front": "apple",
-        "back": "яблоко",
+        "front": "glasses",
+        "back": "очки",
         "setName": "English"
     },
     {
@@ -13,8 +13,8 @@
     },
       {
         "id":3,
-        "front": "apple",
-        "back": "яблоко",
+        "front": "watch",
+        "back": "часы",
         "setName": "English"
     },
     {
@@ -25,8 +25,8 @@
     },
      {
         "id":5,
-        "front": "apple",
-        "back": "яблоко",
+        "front": "photo",
+        "back": "фото",
         "setName": "English"
     },
     {
@@ -37,8 +37,8 @@
     },
       {
         "id":7,
-        "front": "apple",
-        "back": "яблоко",
+        "front": "pen",
+        "back": "ручка",
         "setName": "English"
     },
     {
@@ -49,15 +49,15 @@
     },
       {
         "id":9,
-        "front": "banana",
-        "back": "банан",
-        "setName": "fruit"
+        "front": "paper",
+        "back": "бумага",
+        "setName": "English"
     },
     {
         "id": 10,
-        "front": "orange",
-        "back":"апельсин",
-        "setName": "fruit"
+        "front": "glue",
+        "back":"клей",
+        "setName": "English"
     },
       {
         "id":11,

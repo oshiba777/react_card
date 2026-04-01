@@ -1,0 +1,18 @@
+.set-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 100px;
+    list-style-type: none;
+}
+
+.list-set__btn { 
+    position: relative;
+    padding: 70px;
+    margin: 10px;
+    background-color: rgb(212, 0, 255);
+    color: rgb(243, 243, 243);
+    font-size: 30px;
+    
+}
