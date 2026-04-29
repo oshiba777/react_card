@@ -6,6 +6,23 @@
     gap: 10px;
 }
 
+.create{
+    background: #ff4af0;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    border-style: none;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.create:hover{
+     background: #b82fac;
+}
+
 .label{
     display: flex;
     flex-direction: column;
@@ -14,24 +31,6 @@
     padding-top: 10px;
     font-size: 20px;
 }
-
-.create{
-    background: #ff4af0;
-    color: aliceblue;
-    font-size: 20px;
-    padding: 15px;
-    border-radius: 5px;
-    border-style: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-}
-
-.create:hover{
-     background: #b82fac;
-}
-
 .input{
     min-width: 250px;
     min-height: 40px;
